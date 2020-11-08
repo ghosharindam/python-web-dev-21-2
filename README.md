@@ -8,8 +8,8 @@ series is for intermediate programmers new to web development or Django.
 
 [Andrew Pinkham]: https://andrewsforge.com
 [Python Web Development]: https://pywebdev.com
-[InformIT]: https://pywebdev.com/buy-21-2/
-[Safari Books Online]: https://pywebdev.com/safari-21-2/
+[Available from Oreilly Online]: https://learning.oreilly.com/videos/web-development-in/9780134659824/
+
 
 Andrew may be reached at [JamBon Software] for consulting and training.
 
@@ -372,3 +372,5 @@ as much material as you'd like you may be interested in Chapter 29 of
 [Django Unleashed]: https://django-unleashed.com/
 
 [🔝 Up to Table of Contents](#table-of-contents)
+
+
