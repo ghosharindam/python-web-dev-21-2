@@ -3,12 +3,12 @@
 This repository contains the code for the second class in [Andrew
 Pinkham]'s [Python Web Development] series, titled *Building Backend Web
 Applications and APIs with Django*. The series is published by Pearson
-and may be bought on [InformIT] or viewed on [Safari Books Online]. The
+and can be viewed on [Oreilly Online]. The
 series is for intermediate programmers new to web development or Django.
 
 [Andrew Pinkham]: https://andrewsforge.com
 [Python Web Development]: https://pywebdev.com
-[Available from Oreilly Online]: https://learning.oreilly.com/videos/web-development-in/9780134659824/
+[Oreilly Online]: https://learning.oreilly.com/videos/web-development-in/9780134659824/
 
 
 Andrew may be reached at [JamBon Software] for consulting and training.
