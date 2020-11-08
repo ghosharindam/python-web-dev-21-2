@@ -32,3 +32,6 @@ This gets added to the .git/config as:
 [include]
 	path = ../.gitconfig
 ```
+
+
+For more see: [stack overflow link](https://stackoverflow.com/questions/18329621/how-to-store-a-git-config-as-part-of-the-repository)
